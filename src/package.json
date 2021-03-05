@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-cloud-functions",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "firebase": "^8.2.9",
+    "nuxt": "^2.15.2",
+    "vue-server-renderer": "^2.6.12"
+  }
+}
