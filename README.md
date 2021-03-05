@@ -24,3 +24,14 @@
 * firebase deploy --only funcitons:<YOUR_FUNCTION_NAME>
 
 More information about Cloud Functions for Firebase you can find [here](https://firebase.google.com/docs/functions)
+
+Nuxt project:
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
