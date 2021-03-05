@@ -27,11 +27,11 @@ More information about Cloud Functions for Firebase you can find [here](https://
 
 Nuxt project:
 ##### serve with hot reload at localhost:3000
-$ npm run dev
+* npm run dev
 
 ##### build for production and launch server
-$ npm run build
-$ npm run start
+* npm run build
+* npm run start
 
 ##### generate static project
-$ npm run generate
+* npm run generate
